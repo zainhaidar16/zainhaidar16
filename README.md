@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Data Analyst | Software Engineer | Data Enthusiast<br><br>🎯 I have over 4 years of experience in Data Analysis and Software Engineering, specializing in Python and SQL.<br>🚀 I love creating interactive dashboards, building scalable data solutions, and diving deep into Machine Learning and Big Data.<br>🎓 Currently pursuing a Master's in Computer Science at the University of Vienna.<br><br>
+🌟 Data Analyst & Power BI Specialist | BI Developer | Python & SQL Expert<br><br>🎯 I have over 4 years of experience in Data Analysis and Software Engineering, specializing in Python and SQL.<br>🚀 I love creating interactive dashboards, building scalable data solutions, and diving deep into Machine Learning and Big Data.<br>🎓 Currently pursuing a Master's in Computer Science at the University of Vienna.<br><br>
 
 
 ## 🌐 Socials:
